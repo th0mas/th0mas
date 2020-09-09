@@ -4,4 +4,4 @@
 
 🚀 Currently working at @dwyl developing secure smart home systems with Elixir
 
-[tomhaines.uk](tomhaines.uk)
+[tomh.uk](tomh.uk)
