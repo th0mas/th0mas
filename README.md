@@ -2,6 +2,6 @@
 
 🏛 Second year Computer Science Student at Bristol University (U.K.)
 
-🚀 Recently worked at @dwyl developing secure smart home systems with Elixir
+🚀 Amazon Summer 2021 Intern - Alexa Knowledge
 
 [tomh.uk](tomh.uk)
