@@ -1,6 +1,6 @@
 ### Hi, I'm Tom.
 
-🏛 Second year Computer Science Student at Bristol University (U.K.)
+🏛 Third year Computer Science Student at Bristol University (U.K.)
 
 🚀 Amazon Summer 2021 Intern - Devices
 
